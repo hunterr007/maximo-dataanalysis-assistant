@@ -1,0 +1,7 @@
+pandas
+requests
+google-cloud
+google-cloud-language
+langchain-community
+streamlit
+protobuf<=3.20.3
